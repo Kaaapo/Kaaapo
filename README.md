@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hola%20👋%20Soy%20Kaaapo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hola%20👋%20Soy%20Camilo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -15,14 +15,11 @@
 ## 🧑‍💻 Sobre mí
 
 ```yaml
-nombre: Juan Camilo Barranco
-rol: Estudiante de Ingeniería de Software 🎓
-ubicación: 🌎 Neiva, Colombia
-intereses:
-  - Desarrollo Backend & Frontend
-  - Arquitectura de Software
-  - Cloud Computing (AWS)
-  - Contenedorización con Docker
+Nombre: Juan Camilo Barranco Tejada
+Roll: Desarrollador e Ingeniero de Software 🎓
+Ubicación: 🌎 Neiva-Huila, Colombia
+Quien soy:
+  - Amante de la tecnología y progreso, me fascina aprender y crear soluciones a retos basicos y complejos, me gusta trabajar en equipo y aprender de los demas porque siempre hay algo nuevo que desarrollar, soy muy abierto a nuevas oportunidades y desafios y me encanta ser amable y comprensible con los demas.
 ```
 
 <br>
@@ -65,51 +62,6 @@ intereses:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-</div>
-
-<br>
-
-## � Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kaaapo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaaapo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" width="49%" alt="Top Languages"/>
-
-<br><br>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaaapo&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=C9D1D9" width="60%" alt="GitHub Streak"/>
-
-<br><br>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaaapo&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
-
-</div>
-
-<br>
-
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kaaapo&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="95%" alt="Trophies"/>
-
-</div>
-
-<br>
-
-## 🐍 Mis Contribuciones
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaaapo/Kaaapo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaaapo/Kaaapo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kaaapo/Kaaapo/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
