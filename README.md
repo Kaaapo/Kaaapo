@@ -16,11 +16,11 @@
 
 ```yaml
 Nombre: Juan Camilo Barranco Tejada
-Roll: Desarrollador e Ingeniero de Software 🎓
+Rol: Desarrollador e Ingeniero de Software 🎓
 Ubicación: 🌎 Neiva-Huila, Colombia
 Quien soy:
   - Amante de la tecnología y progreso, me fascina aprender y crear soluciones a retos basicos y complejos.
-  - Me gusta trabajar en equipo y aprender de los demas porque siempre hay algo nuevo que desarrollar.
+  - Me gusta trabajar en equipo y aprender porque siempre hay algo nuevo que desarrollar.
   - Soy muy abierto a nuevas oportunidades y desafios y me encanta ser amable y comprensible con los demas.
 ```
 
