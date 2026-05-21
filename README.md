@@ -18,9 +18,8 @@
 Nombre: Juan Camilo Barranco Tejada
 Rol: Desarrollador Backend
 Ubicación: 🌎 Neiva-Huila, Colombia
+Resumen: Desarrollador Backend con sólida experiencia en la construcción de sistemas escalables y seguros bajo el ecosistema de Java y Spring Boot. Especializado en el diseño de arquitecturas robustas, APIs REST, flujos de seguridad avanzados mediante JWT y controles de autorización granulares (RBAC). Apasionado por la optimización de rendimiento (Redis), automatización de despliegues (CI/CD) y calidad de código mediante pruebas automatizadas.
 ```
-
-Desarrollador Backend con sólida experiencia en la construcción de sistemas escalables y seguros bajo el ecosistema de Java y Spring Boot. Especializado en el diseño de arquitecturas robustas, APIs REST, flujos de seguridad avanzados mediante JWT y controles de autorización granulares (RBAC). Apasionado por la optimización de rendimiento (Redis), automatización de despliegues (CI/CD) y calidad de código mediante pruebas automatizadas.
 
 <br>
 
