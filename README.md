@@ -12,17 +12,17 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
 ```yaml
 Nombre: Juan Camilo Barranco Tejada
 Rol: Desarrollador Backend
-Ubicación: 🌎 Neiva-Huila, Colombia
+Ubicación: Neiva-Huila, Colombia
 ```
 
 <br>
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Ubicación: 🌎 Neiva-Huila, Colombia
 
 <br>
 
-## �� Conecta conmigo
+## Conecta conmigo
 
 <div align="center">
 
