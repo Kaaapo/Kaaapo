@@ -16,13 +16,11 @@
 
 ```yaml
 Nombre: Juan Camilo Barranco Tejada
-Rol: Desarrollador e Ingeniero de Software 🎓
+Rol: Desarrollador Backend
 Ubicación: 🌎 Neiva-Huila, Colombia
-Quien soy:
-  - Amante de la tecnología y progreso, me fascina aprender y crear soluciones a retos basicos y complejos. 
-  - Me gusta trabajar en equipo y aprender porque siempre hay algo nuevo que desarrollar.
-  - Soy muy abierto a nuevas oportunidades y desafios y me encanta ser amable y comprensible con los demas.
 ```
+
+Desarrollador Backend con sólida experiencia en la construcción de sistemas escalables y seguros bajo el ecosistema de Java y Spring Boot. Especializado en el diseño de arquitecturas robustas, APIs REST, flujos de seguridad avanzados mediante JWT y controles de autorización granulares (RBAC). Apasionado por la optimización de rendimiento (Redis), automatización de despliegues (CI/CD) y calidad de código mediante pruebas automatizadas.
 
 <br>
 
@@ -32,17 +30,10 @@ Quien soy:
 
 ### 💻 Lenguajes de Programación
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🔧 Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -52,10 +43,9 @@ Quien soy:
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🗄️ Bases de Datos
+### 🗄️ Bases de Datos & Caché
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![NeonDB](https://img.shields.io/badge/NeonDB-00E5B0?style=for-the-badge&logo=neon&logoColor=black)
 
 ### ☁️ DevOps & Cloud
@@ -65,15 +55,20 @@ Quien soy:
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🧪 Testing
+
+### 🧪 Testing & QA
+![JUnit 5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-8BC84B?style=for-the-badge)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### 🛠️ Herramientas
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
@@ -82,7 +77,28 @@ Quien soy:
 
 <br>
 
-## 📫 Conecta conmigo
+## � Experiencia
+
+**Desarrollador** | *Universidad Surcolombiana* (Feb 2024 — Feb 2026)
+- Estructuración de arquitectura core backend (microservicios/API) con **Java y Spring Boot**.
+- Optimización de rendimiento mediante caché con **Redis / Spring Cache**.
+- Implementación de ecosistema de seguridad con **Spring Security, JWT** y autorización **RBAC** a nivel de endpoint.
+- Integración continua y despliegue (**CI/CD**) mediante **Azure DevOps**.
+
+**Desarrollador y QA** | *Proyecto Integrador SIGMA* (Jun 2025 — Oct 2025)
+- Diseño de arquitectura e implementación de módulos con **Java, Spring Boot y Spring Batch**.
+- Aseguramiento de información sensible con **Spring Security y JWT**.
+- Automatización de despliegues nativos en contenedores (**Docker**, Dokploy).
+- Cobertura de calidad y pruebas de integración utilizando **Testcontainers, JUnit 5 y Mockito**.
+
+**Desarrollador Frontend (Diplomado)** | *MinTIC* (Jun 2022 — Oct 2022)
+- Desarrollo y estructuración de arquitectura modular frontend con **React y Vite**.
+- Diseño de interfaces y control de accesos basados en roles (RBAC).
+- Creación de librería de componentes reutilizables con **Tailwind CSS**.
+
+<br>
+
+## �📫 Conecta conmigo
 
 <div align="center">
 
