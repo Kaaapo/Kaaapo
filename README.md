@@ -33,7 +33,7 @@ public class JuanCamilo extends BackendDeveloper {
 
     private final String ubicacion   = "Neiva - Huila, Colombia 🇨🇴";
     private final int    experiencia = 3; // años
-    private final String formacion   = "Ingeniería de Software @ Universidad Surcolombiana";
+    private final String formacion   = "Ingeniero de Software @ Universidad Surcolombiana (2026)";
 
     private final List<String> arquitecturas = List.of(
         "Hexagonal (Puertos y Adaptadores)", "Clean Architecture",
@@ -90,7 +90,7 @@ public class JuanCamilo extends BackendDeveloper {
 
 | | Programa | Institución | Fecha |
 |:-:|:--|:--|:-:|
-| 🎓 | **Ingeniería de Software** | Universidad Surcolombiana · Neiva | — |
+| 🎓 | **Ingeniería de Software** | Universidad Surcolombiana · Neiva | Graduado · 2026 |
 | 📜 | **Diplomado en Desarrollo** | MinTIC | Jun 2022 — Oct 2022 |
 
 ---
