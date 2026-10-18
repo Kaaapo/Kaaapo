@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Juan%20Camilo%20Barranco&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=56&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Juan%20Camilo%20Barranco&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot&descAlignY=56&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Backend+Developer+%E2%98%95+Java+%26+Spring+Boot;Arquitectura+Hexagonal+%26+Clean+Architecture;Programaci%C3%B3n+reactiva+con+Spring+WebFlux;Microservicios+%2B+RabbitMQ+%2B+Redis;%2B3+a%C3%B1os+construyendo+sistemas+escalables+%F0%9F%9A%80" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 
 <a href="https://linkedin.com/in/juancamilobarrancotejada"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:juancamilobarrancotejada@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Kaaapo&style=for-the-badge&color=6C63FF&label=VISITAS"/>
+<img src="https://hits.sh/github.com/Kaaapo.svg?style=for-the-badge&label=VISITAS&color=6c63ff&labelColor=1a1b27"/>
 
 </div>
 
@@ -165,7 +165,7 @@ public class JuanCamilo extends BackendDeveloper {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaaapo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=6C63FF&icon_color=6DB33F" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaaapo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6C63FF&icon_color=6DB33F" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaaapo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=6C63FF" />
 
 <img src="https://streak-stats.demolab.com?user=Kaaapo&theme=tokyonight&hide_border=true&ring=6C63FF&fire=6DB33F&currStreakLabel=6C63FF&locale=es" />
