@@ -165,10 +165,8 @@ public class JuanCamilo extends BackendDeveloper {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaaapo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6C63FF&icon_color=6DB33F" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaaapo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=6C63FF" />
-
-<img src="https://streak-stats.demolab.com?user=Kaaapo&theme=tokyonight&hide_border=true&ring=6C63FF&fire=6DB33F&currStreakLabel=6C63FF&locale=es" />
+<img height="170" src="https://streak-stats.demolab.com?user=Kaaapo&theme=tokyonight&hide_border=true&locale=es&hide_current_streak=true&hide_longest_streak=true&card_width=300&card_height=170&sideNums=6C63FF&sideLabels=6DB33F" />
 
 <br><br>
 
